@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoxDictionary", "WoxDictionary\WoxDictionary.csproj", "{596879D1-E919-47BB-BED4-E7EE17BC9AAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleDictionaryApiMiddleware", "GoogleDictionaryApiMiddleware\GoogleDictionaryApiMiddleware.csproj", "{AC612F43-B319-400A-A947-51E0911142EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WoxDictionaryApiTester", "WoxDictionaryApiTester\WoxDictionaryApiTester.csproj", "{A37F6E7A-AD60-4BEB-9B0F-D2E54266446A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleDictionaryMiddleware", "GoogleDictionaryMiddleware\GoogleDictionaryMiddleware.csproj", "{F4662E7C-9D1C-4B1E-9352-168A1C8A3FA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{596879D1-E919-47BB-BED4-E7EE17BC9AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596879D1-E919-47BB-BED4-E7EE17BC9AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596879D1-E919-47BB-BED4-E7EE17BC9AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596879D1-E919-47BB-BED4-E7EE17BC9AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC612F43-B319-400A-A947-51E0911142EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC612F43-B319-400A-A947-51E0911142EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC612F43-B319-400A-A947-51E0911142EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC612F43-B319-400A-A947-51E0911142EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37F6E7A-AD60-4BEB-9B0F-D2E54266446A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37F6E7A-AD60-4BEB-9B0F-D2E54266446A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37F6E7A-AD60-4BEB-9B0F-D2E54266446A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37F6E7A-AD60-4BEB-9B0F-D2E54266446A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4662E7C-9D1C-4B1E-9352-168A1C8A3FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4662E7C-9D1C-4B1E-9352-168A1C8A3FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4662E7C-9D1C-4B1E-9352-168A1C8A3FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4662E7C-9D1C-4B1E-9352-168A1C8A3FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC1C33A-2854-4B54-9457-5E960B50ABF1}
+	EndGlobalSection
+EndGlobal

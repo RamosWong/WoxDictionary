@@ -1,0 +1,12 @@
+{
+  "ID":"20eb6719bbeb4995b13ca42895e2cdf0",
+  "ActionKeyword":"def",
+  "Name":"Dictionary",
+  "Description":"Dictionary for Wox",
+  "Author":"ronwong",
+  "Version":"0.0.1",
+  "Language":"csharp",
+  "Website":"http://www.google.com",
+  "IcoPath": "images\\dict.png",              //Plugin icon, relative path to the pluign folder
+  "ExecuteFileName":"WoxDictionary.dll"   //Execution entry. Dll name for c# plugin, and python file for python plugin
+}
